@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pauldavilafnc.twa",
+        "sha256_cert_fingerprints": ["A2:89:11:9E:B1:B5:0E:F3:59:D2:C3:F8:0E:00:CB:F4:55:F5:92:20:EF:5E:10:52:2F:1E:16:C6:AD:29:C8:47"]
+      }
+    }]
